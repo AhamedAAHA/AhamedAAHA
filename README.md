@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **Bachelor’s degree specializing in Computer Systems and Network Engineering (CSNE)**
+- 🌱 I’m currently learning **Bachelor’s degree specializing in Software Engineering (SE)**
 
 
 
