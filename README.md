@@ -17,7 +17,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=820&height=80&lines=Building+AI+agents+%26+automation+for+real+problems;Full-stack+%C2%B7+Multi-agent+%C2%B7+Hackathon+shipper;Open+to+internships+%26+collaborations" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Building+AI+agents+%26+automation+for+real+problems;Full-stack+%C2%B7+Multi-agent+%C2%B7+Hackathon+shipper;Open+to+internships+%26+collaborations" alt="Typing animation" />
 
   <img src="./assets/divider.svg" alt="" width="70%" />
 
