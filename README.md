@@ -52,6 +52,22 @@ I design and ship **AI-powered products** under pressure — multi-agent systems
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhamedAAHA&bg_color=061018&color=2dd4bf&line=38bdf8&point=fbbf24&area=true&hide_border=true&custom_title=Contribution%20Activity" height="280" alt="Activity graph" />
 </div>
 
+### Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhamedAAHA&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
+</div>
+
+### Coding time
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhamedAAHA&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1&bg_color=061018&custom_title=WakaTime%20this%20week" alt="WakaTime stats" />
+</div>
+
+> Connect a public [WakaTime](https://wakatime.com) profile with username `AhamedAAHA` for live coding-time stats.
+
+<img src="./assets/learning-now.svg" alt="Learning this month" width="100%" />
+
 ---
 
 ## 3D contribution universe
@@ -80,7 +96,50 @@ Animated isometric contribution calendar — regenerates daily via GitHub Action
 
 ---
 
+## Hackathon medals
+
+<div align="center">
+  <img src="./assets/hackathon-medals.svg" alt="Hackathon medals" width="100%" />
+</div>
+
+```text
+2026 ──┬── LabLab WebData .............. Sentra AI .............. 17th / 294
+       ├── Cursor Buildathon ........... Smart Study Companion .. 7th place
+       ├── Cursor Live Sri Lanka ....... AdGPT .................. 2-hour ship
+       ├── Kapruka Agent Challenge ..... KAgent ................. multi-agent
+       ├── Hack the Zero Stack ......... Aria ................... Vercel + AWS
+       └── AMD ACT II (Unicorn) ........ Neuroloom .............. Gemma on AMD
+```
+
+---
+
 ## Featured builds
+
+### Pinned projects
+
+<div align="center">
+  <a href="https://github.com/AhamedAAHA/neuroloom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhamedAAHA&repo=neuroloom&theme=transparent&hide_border=true&bg_color=061018&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1" alt="neuroloom" />
+  </a>
+  <a href="https://github.com/AhamedAAHA/Aria">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhamedAAHA&repo=Aria&theme=transparent&hide_border=true&bg_color=061018&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1" alt="Aria" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/AhamedAAHA/kagent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhamedAAHA&repo=kagent&theme=transparent&hide_border=true&bg_color=061018&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1" alt="kagent" />
+  </a>
+  <a href="https://github.com/AhamedAAHA/Sentra-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhamedAAHA&repo=Sentra-AI&theme=transparent&hide_border=true&bg_color=061018&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1" alt="Sentra-AI" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://web-three-sable-48.vercel.app/"><img src="https://img.shields.io/badge/Neuroloom-Live-0f766e?style=flat-square&logo=vercel&logoColor=white" alt="Neuroloom live" /></a>
+  <a href="https://aria-zeta-virid.vercel.app"><img src="https://img.shields.io/badge/Aria-Live-0369a1?style=flat-square&logo=vercel&logoColor=white" alt="Aria live" /></a>
+  <a href="https://kagent-nine.vercel.app"><img src="https://img.shields.io/badge/KAgent-Live-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="KAgent live" /></a>
+  <a href="https://sentra-one-kappa.vercel.app/"><img src="https://img.shields.io/badge/Sentra_AI-Live-e11d48?style=flat-square&logo=vercel&logoColor=white" alt="Sentra live" /></a>
+</p>
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
@@ -107,20 +166,11 @@ Animated isometric contribution calendar — regenerates daily via GitHub Action
 
 ---
 
-## Hackathon timeline
-
-```text
-2026 ──┬── LabLab WebData .............. Sentra AI .............. 17th / 294
-       ├── Cursor Buildathon ........... Smart Study Companion .. 7th place
-       ├── Cursor Live Sri Lanka ....... AdGPT .................. 2-hour ship
-       ├── Kapruka Agent Challenge ..... KAgent ................. multi-agent
-       ├── Hack the Zero Stack ......... Aria ................... Vercel + AWS
-       └── AMD ACT II (Unicorn) ........ Neuroloom .............. Gemma on AMD
-```
-
----
-
 ## Tech constellation
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,fastapi,postgres,mongodb,supabase,docker,aws,vercel,threejs,linux,git" alt="Skill icons" />
+</div>
 
 ### Languages
 
