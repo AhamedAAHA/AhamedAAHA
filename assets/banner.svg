@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Hubaib Ahamed  AI Builder Profile Banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#061018"/>
+      <stop offset="45%" stop-color="#0a1f2e"/>
+      <stop offset="100%" stop-color="#0d2a24"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2dd4bf">
+        <animate attributeName="stop-color" values="#2dd4bf;#38bdf8;#fbbf24;#2dd4bf" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#fbbf24;#2dd4bf;#38bdf8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#fbbf24">
+        <animate attributeName="stop-color" values="#fbbf24;#2dd4bf;#38bdf8;#fbbf24" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="cubeTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#14b8a6" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#115e59"/>
+    </linearGradient>
+    <linearGradient id="cubeRight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="45%" r="35%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+  <ellipse cx="860" cy="190" rx="280" ry="160" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- floating particles -->
+  <g fill="#2dd4bf" opacity="0.55">
+    <circle cx="180" cy="80" r="2">
+      <animate attributeName="cy" values="80;60;80" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="320" r="1.5" fill="#38bdf8">
+      <animate attributeName="cy" values="320;300;320" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="540" cy="70" r="2" fill="#fbbf24">
+      <animate attributeName="cy" values="70;50;70" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="90" r="2">
+      <animate attributeName="cy" values="90;70;90" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="280" r="1.8" fill="#38bdf8">
+      <animate attributeName="cy" values="280;260;280" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- isometric city / stack (3D) -->
+  <g transform="translate(760,70)" filter="url(#softGlow)">
+    <!-- cube helper macros as groups -->
+    <g transform="translate(40,160)">
+      <polygon points="0,-28 48,-4 0,20 -48,-4" fill="url(#cubeTop)"/>
+      <polygon points="-48,-4 0,20 0,68 -48,44" fill="url(#cubeLeft)"/>
+      <polygon points="0,20 48,-4 48,44 0,68" fill="url(#cubeRight)"/>
+      <animateTransform attributeName="transform" type="translate" values="40,160;40,148;40,160" dur="3.2s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(140,130)">
+      <polygon points="0,-36 56,-8 0,20 -56,-8" fill="url(#cubeTop)"/>
+      <polygon points="-56,-8 0,20 0,84 -56,56" fill="url(#cubeLeft)"/>
+      <polygon points="0,20 56,-8 56,56 0,84" fill="url(#cubeRight)"/>
+      <animateTransform attributeName="transform" type="translate" values="140,130;140,116;140,130" dur="3.8s" begin="0.4s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(240,150)">
+      <polygon points="0,-24 42,-2 0,20 -42,-2" fill="url(#cubeTop)"/>
+      <polygon points="-42,-2 0,20 0,60 -42,38" fill="url(#cubeLeft)"/>
+      <polygon points="0,20 42,-2 42,38 0,60" fill="url(#cubeRight)"/>
+      <animateTransform attributeName="transform" type="translate" values="240,150;240,138;240,150" dur="3.5s" begin="0.8s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(90,70)">
+      <polygon points="0,-30 50,-5 0,20 -50,-5" fill="url(#cubeTop)"/>
+      <polygon points="-50,-5 0,20 0,72 -50,47" fill="url(#cubeLeft)"/>
+      <polygon points="0,20 50,-5 50,47 0,72" fill="url(#cubeRight)"/>
+      <animateTransform attributeName="transform" type="translate" values="90,70;90,56;90,70" dur="4.2s" begin="0.2s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(190,40)">
+      <polygon points="0,-40 60,-10 0,20 -60,-10" fill="url(#cubeTop)"/>
+      <polygon points="-60,-10 0,20 0,95 -60,65" fill="url(#cubeLeft)"/>
+      <polygon points="0,20 60,-10 60,65 0,95" fill="url(#cubeRight)"/>
+      <animateTransform attributeName="transform" type="translate" values="190,40;190,24;190,40" dur="4.6s" begin="0.6s" repeatCount="indefinite"/>
+    </g>
+    <!-- orbiting ring -->
+    <ellipse cx="160" cy="120" rx="150" ry="48" fill="none" stroke="url(#neon)" stroke-width="1.5" opacity="0.55">
+      <animate attributeName="stroke-dasharray" values="0 600;80 520;0 600" dur="6s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- left content -->
+  <text x="70" y="95" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="3">SOFTWARE ENGINEERING · SLIIT</text>
+  <text x="70" y="165" fill="#f8fafc" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="52" font-weight="700">Hubaib Ahamed</text>
+  <rect x="70" y="185" width="220" height="4" rx="2" fill="url(#neon)">
+    <animate attributeName="width" values="120;260;120" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="70" y="235" fill="#cbd5e1" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="22">AI Agents · Full-Stack · Hackathon Builder</text>
+  <text x="70" y="275" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">Kalubowila, Sri Lanka  ·  Open to internships &amp; collabs</text>
+
+  <!-- status pills -->
+  <g transform="translate(70,310)">
+    <rect width="150" height="36" rx="18" fill="#0f766e" fill-opacity="0.35" stroke="#2dd4bf" stroke-opacity="0.5"/>
+    <circle cx="22" cy="18" r="5" fill="#34d399">
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="38" y="23" fill="#99f6e4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600">Building now</text>
+
+    <rect x="168" width="170" height="36" rx="18" fill="#0c4a6e" fill-opacity="0.4" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <text x="188" y="23" fill="#bae6fd" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600">Year 3 @ SLIIT</text>
+
+    <rect x="356" width="190" height="36" rx="18" fill="#78350f" fill-opacity="0.35" stroke="#fbbf24" stroke-opacity="0.45"/>
+    <text x="376" y="23" fill="#fde68a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600">7th · Cursor Buildathon</text>
+  </g>
+</svg>

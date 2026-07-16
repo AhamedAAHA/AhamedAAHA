@@ -1,122 +1,240 @@
+<div align="center">
 
+  <img src="./assets/banner.svg" alt="Hubaib Ahamed — AI Agents · Full-Stack · Hackathon Builder" width="100%" />
 
+  <br/>
 
+  <a href="https://ahamed-4e0q.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hubaibahamedaaha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hubaibahamedaaha%40gmail.com-0369a1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hubaib-ahamed-a67732351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AhamedAAHA&label=Profile%20views&color=0f766e&style=for-the-badge" alt="Profile views" />
 
+  <br/><br/>
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&width=820&height=80&lines=Building+AI+agents+%26+automation+for+real+problems;Full-stack+%C2%B7+Multi-agent+%C2%B7+Hackathon+shipper;Open+to+internships+%26+collaborations" alt="Typing animation" />
 
+  <img src="./assets/divider.svg" alt="" width="70%" />
 
-<!--
+</div>
 
+---
 
-**AhamedAAHA/AhamedAAHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
+**Hubaib Ahamed** — Software Engineering undergraduate (Year 3) at **SLIIT**, based in **Kalubowila, Sri Lanka**.
 
+I design and ship **AI-powered products** under pressure — multi-agent systems, full-stack platforms, voice AI, and automation for education, healthcare accessibility, hiring, and GTM intelligence.
 
+> LabLab WebData **17th / 294** · Cursor Buildathon **7th** · AMD ACT II Unicorn Track · Kapruka Agent Challenge · Hack the Zero Stack
 
+- Currently exploring **multi-agent orchestration**, **RAG**, **voice AI**, and **production-ready agent workflows**
+- Building with **Next.js · TypeScript · FastAPI · Node · Spring Boot · Postgres · Mongo · Supabase**
+- Integrating **Gemma · OpenAI · ElevenLabs · Speechmatics · Bright Data · MediaPipe · Anthropic**
+- Always open to **internships**, **hackathon teams**, and **collaborations**
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/AhamedAAHA">
+    <img src="https://github-readme-stats.vercel.app/api?username=AhamedAAHA&show_icons=true&theme=transparent&hide_border=true&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1&bg_color=061018&ring_color=2dd4bf&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/AhamedAAHA">
+    <img src="https://github-readme-streak-stats.demolab.com?user=AhamedAAHA&theme=dark&hide_border=true&background=061018&ring=2dd4bf&fire=fbbf24&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" height="165" alt="GitHub streak" />
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedAAHA&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1&bg_color=061018&langs_count=8" height="165" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhamedAAHA&bg_color=061018&color=2dd4bf&line=38bdf8&point=fbbf24&area=true&hide_border=true&custom_title=Contribution%20Activity" height="280" alt="Activity graph" />
+</div>
 
+---
 
+## 3D contribution universe
 
+Animated isometric contribution calendar — regenerates daily via GitHub Actions.
 
-- 🔭 I’m currently working on ...
+<div align="center">
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%" />
+  </picture>
 
-- 🌱 I’m currently learning ...
+  <br/>
 
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated green 3D contributions" width="100%" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Git block contribution view" width="100%" />
 
-- 👯 I’m looking to collaborate on ...
+</div>
 
+> Images appear after the first Actions run. Open **Actions → GitHub-Profile-3D-Contrib → Run workflow**.
 
-- 🤔 I’m looking for help with ...
+---
 
+## Contribution snake
 
-- 💬 Ask me about ...
+<div align="center">
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhamedAAHA/AhamedAAHA/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhamedAAHA/AhamedAAHA/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/AhamedAAHA/AhamedAAHA/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 
-- 📫 How to reach me: ...
+</div>
 
+---
 
-- 😄 Pronouns: ...
+## Featured builds
 
-
-- ⚡ Fun fact: ...
-
-
--->
-
-
-<h1 align="center">Hi 👋, I'm Hubaib Ahamed</h1>
-
-
-<h3 align="center">An undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT)</h3>
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahamedaaha&label=Profile%20views&color=0e75b6&style=flat" alt="ahamedaaha" /> </p>
-
-
-
-
-
-- 🌱 I’m currently learning **Bachelor’s degree specializing in Software Engineering (SE)**
-
-
-
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/ahamedaaha](https://github.com/ahamedaaha)
-
-
-
-
-
-- 📫 To reach me **hubaibahamedaaha@gmail.com**
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-
-<p align="left">
-
-
-<a href="https://linkedin.com/in/www.linkedin.com/in/hubaib-ahamed-a67732351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hubaib-ahamed-a67732351" height="30" width="40" /></a>
-
-
-<a href="https://instagram.com/https://www.instagram.com/me.hubah_he?igsh=mtjsngtvbmk4mjd2oa%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/me.hubah_he?igsh=mtjsngtvbmk4mjd2oa%3d%3d&utm_source=qr" height="30" width="40" /></a>
-
-
-</p>
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahamedaaha&show_icons=true&locale=en&layout=compact" alt="ahamedaaha" /></p>
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamedaaha&show_icons=true&locale=en" alt="ahamedaaha" /></p>
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamedaaha&" alt="ahamedaaha" /></p>
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Neuroloom** | Family-care command center — 9 Gemma agents on AMD GPUs | Next.js · FastAPI · LangGraph · Postgres · ROCm · vLLM | [Live](https://web-three-sable-48.vercel.app/) · [Repo](https://github.com/AhamedAAHA/neuroloom) |
+| **Aria** | AI hiring OS — voice/CV parse, explainable matching, Kanban | Next.js · Aurora · Cognito · GPT-4o · Speechmatics | [Live](https://aria-zeta-virid.vercel.app) · [Repo](https://github.com/AhamedAAHA/Aria) |
+| **KAgent** | 7-agent shopping swarm for Kapruka life situations | Next.js · Claude · Framer Motion · Zustand | [Live](https://kagent-nine.vercel.app) · [Repo](https://github.com/AhamedAAHA/kagent) |
+| **AdGPT** | Static ads → short-form video in a 2-hour live build | Next.js · OpenAI · Remotion · Supabase | [Live](https://adgpt-nine.vercel.app) · [Repo](https://github.com/AhamedAAHA/AdGPT) |
+| **CyanideX** | Cyber threat intelligence OS with 3D threat globe | Next.js · Three.js · Java · Bright Data | [Live](https://cyanide-x.vercel.app/) · [Repo](https://github.com/AhamedAAHA/CyanideX) |
+| **Sentra AI** | Live GTM intelligence — **17th of 294** at LabLab WebData | Next.js · Supabase · Bright Data · Speechmatics | [Live](https://sentra-one-kappa.vercel.app/) · [Repo](https://github.com/AhamedAAHA/Sentra-AI) |
+
+<details>
+<summary><b>More projects</b></summary>
+
+| Project | Focus | Repo |
+|---|---|---|
+| **Suzie** | Global / geopolitical intelligence OS | [Suzie](https://github.com/AhamedAAHA/Suzie) |
+| **GestureMed** | Healthcare accessibility via gesture interfaces | [GestureMed](https://github.com/AhamedAAHA/GestureMed) |
+| **Smart Study Companion** | Cursor Buildathon — PDF → flashcards + Tamil voice | [SmartStudyCompanionAAHA](https://github.com/AhamedAAHA/SmartStudyCompanionAAHA) |
+| **Lumora** | Product experiment | [Lumora](https://github.com/AhamedAAHA/Lumora) |
+| **DeeBug** | Debugging / tooling experiment | [DeeBug](https://github.com/AhamedAAHA/DeeBug) |
+| **Portfolio** | Personal site (React · TS · Tailwind · Vite) | [Portfolio](https://github.com/AhamedAAHA/Portfolio) · [Live](https://ahamed-4e0q.onrender.com) |
+
+</details>
+
+---
+
+## Hackathon timeline
+
+```text
+2026 ──┬── LabLab WebData .............. Sentra AI .............. 17th / 294
+       ├── Cursor Buildathon ........... Smart Study Companion .. 7th place
+       ├── Cursor Live Sri Lanka ....... AdGPT .................. 2-hour ship
+       ├── Kapruka Agent Challenge ..... KAgent ................. multi-agent
+       ├── Hack the Zero Stack ......... Aria ................... Vercel + AWS
+       └── AMD ACT II (Unicorn) ........ Neuroloom .............. Gemma on AMD
+```
+
+---
+
+## Tech constellation
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frontend & 3D
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![R3F](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-000000?style=flat-square&logo=remotion&logoColor=white)
+
+### Backend & data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### AI & intelligence
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-FF6A00?style=flat-square&logo=pytorch&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma_on_AMD-ED1C24?style=flat-square&logo=amd&logoColor=white)
+
+### Cloud & tooling
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+## Currently shipping
+
+```ts
+const ahamed = {
+  role: "Software Engineering Undergrad @ SLIIT (Y3)",
+  focus: ["AI Agents", "Full-Stack", "Multi-Agent Systems", "Voice AI"],
+  recent: ["Neuroloom", "Aria", "KAgent", "AdGPT", "CyanideX", "Sentra AI"],
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Three.js", "Framer Motion"],
+    backend: ["Node", "FastAPI", "Spring Boot", "Postgres", "Supabase"],
+    ai: ["Gemma", "OpenAI", "LangGraph", "ElevenLabs", "Speechmatics", "RAG"],
+  },
+  lookingFor: ["Internships", "Collaborations", "Hackathon teams"],
+  contact: "hubaibahamedaaha@gmail.com",
+};
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+  <a href="https://github.com/AhamedAAHA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AhamedAAHA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hubaib-ahamed-a67732351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hubaib%20Ahamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/me.hubah_he/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-me.hubah__he-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://ahamed-4e0q.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hubaibahamedaaha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote" />
+
+  <br/>
+
+  <i>Built for builders. Updated with GitHub Actions · 3D contrib · contribution snake · live stats.</i>
+
+</div>
