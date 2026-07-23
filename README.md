@@ -47,16 +47,6 @@ I design and ship **AI-powered products** under pressure — multi-agent systems
 
 <div align="center">
 
-  <img src="./assets/generated/github-stats.svg" height="180" alt="GitHub stats" />
-  &nbsp;
-  <img src="./assets/generated/streak.svg" height="180" alt="GitHub streak" />
-
-  <br/><br/>
-
-  <img src="./assets/generated/top-langs.svg" height="180" alt="Top languages" />
-
-  <br/><br/>
-
   <img src="./assets/generated/activity-graph.svg" width="95%" alt="Contribution activity" />
 
   <br/><br/>
