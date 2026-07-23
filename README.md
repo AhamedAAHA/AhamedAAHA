@@ -41,66 +41,37 @@ I design and ship **AI-powered products** under pressure — multi-agent systems
 
 <img src="./assets/now-shipping.svg" alt="Now shipping / open to work" width="100%" />
 
-### Snapshot
-
-| | |
-|---|---|
-| 🎓 **Education** | SLIIT · Software Engineering · Year 3 |
-| 📍 **Based in** | Kalubowila, Sri Lanka (remote-friendly) |
-| 🏆 **Recent ranks** | LabLab 17/294 · Cursor Buildathon 7th |
-| 🧪 **Focus** | Multi-agent systems · Voice AI · Full-stack |
-| 📬 **Contact** | [hubaibahamedaaha@gmail.com](mailto:hubaibahamedaaha@gmail.com) |
-
 ---
 
 ## GitHub pulse
 
-Widgets are cached in-repo and refreshed daily by GitHub Actions (public hosted stats/trophy apps are often paused).
-
 <div align="center">
-  <img src="./assets/generated/github-stats.svg" height="165" alt="GitHub stats" />
-  <img src="./assets/generated/streak.svg" height="165" alt="GitHub streak" />
+
+  <img src="./assets/generated/github-stats.svg" height="180" alt="GitHub stats" />
+  &nbsp;
+  <img src="./assets/generated/streak.svg" height="180" alt="GitHub streak" />
+
+  <br/><br/>
+
+  <img src="./assets/generated/top-langs.svg" height="180" alt="Top languages" />
+
+  <br/><br/>
+
+  <img src="./assets/generated/activity-graph.svg" width="95%" alt="Contribution activity" />
+
+  <br/><br/>
+
+  <img src="./assets/generated/trophies.svg" width="90%" alt="GitHub trophies" />
+
+  <br/><br/>
+
+  <img src="./assets/coding-focus.svg" width="92%" alt="Builder rhythm" />
+
+  <br/>
+
+  <img src="./assets/learning-now.svg" width="92%" alt="Learning this month" />
+
 </div>
-
-<div align="center">
-  <img src="./assets/generated/top-langs.svg" height="165" alt="Top languages" />
-  <img src="./assets/generated/activity-graph.svg" height="280" alt="Activity graph" />
-</div>
-
-### Contribution heatmap
-
-<div align="center">
-  <img src="./assets/generated/gh-chart.svg" alt="GitHub contribution chart" width="100%" />
-</div>
-
-### Trophies
-
-<div align="center">
-  <img src="./assets/generated/trophies.svg" alt="GitHub trophies" />
-</div>
-
-### Builder rhythm
-
-No public WakaTime profile is connected yet — until then, this tracks seasonal focus intensity (not raw hours).
-
-<div align="center">
-  <img src="./assets/coding-focus.svg" alt="Coding focus" width="100%" />
-</div>
-
-<details>
-<summary><b>Want live WakaTime hours?</b></summary>
-
-1. Create an account at [wakatime.com](https://wakatime.com) with username **`AhamedAAHA`**
-2. Make the profile **public**
-3. Re-enable the card with:
-
-```md
-<img src="https://github-readme-stats.shion.dev/api/wakatime?username=AhamedAAHA&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1&bg_color=061018&custom_title=WakaTime%20this%20week" alt="WakaTime stats" />
-```
-
-</details>
-
-<img src="./assets/learning-now.svg" alt="Learning this month" width="100%" />
 
 ---
 

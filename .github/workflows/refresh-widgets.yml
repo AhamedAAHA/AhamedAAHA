@@ -53,9 +53,6 @@ jobs:
           curl -fsSL -A "$UA" -o assets/generated/activity-graph.svg \
             "https://github-readme-activity-graph.vercel.app/graph?username=AhamedAAHA&bg_color=061018&color=2dd4bf&line=38bdf8&point=fbbf24&area=true&hide_border=true&custom_title=Contribution%20Activity"
 
-          curl -fsSL -A "$UA" -o assets/generated/gh-chart.svg \
-            "https://ghchart.rshah.org/2dd4bf/AhamedAAHA" || true
-
           for repo in neuroloom Aria kagent Sentra-AI; do
             curl -fsSL -A "$UA" -o "assets/generated/pin-${repo}.svg" \
               "https://github-readme-stats.shion.dev/api/pin/?username=AhamedAAHA&repo=${repo}&theme=transparent&hide_border=true&bg_color=061018&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1"
