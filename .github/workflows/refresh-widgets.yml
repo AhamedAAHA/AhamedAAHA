@@ -1,0 +1,79 @@
+name: Refresh profile widgets
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily ~08:30 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/refresh-widgets.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Download live widgets into assets/generated
+        run: |
+          set -euo pipefail
+          mkdir -p assets/generated
+          UA="Mozilla/5.0 (compatible; AhamedAAHA-profile-bot/1.0)"
+
+          curl -fsSL -A "$UA" -o assets/generated/github-stats.svg \
+            "https://github-readme-stats.shion.dev/api?username=AhamedAAHA&show_icons=true&theme=transparent&hide_border=true&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1&bg_color=061018&ring_color=2dd4bf&include_all_commits=true&count_private=true"
+
+          curl -fsSL -A "$UA" -o assets/generated/top-langs.svg \
+            "https://github-readme-stats.shion.dev/api/top-langs/?username=AhamedAAHA&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1&bg_color=061018&langs_count=8"
+
+          curl -fsSL -A "$UA" -o assets/generated/streak.svg \
+            "https://streak-stats.demolab.com/?user=AhamedAAHA&theme=dark&hide_border=true&background=061018&ring=2dd4bf&fire=fbbf24&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0"
+
+          # Trophy mirrors (try primary, then fallbacks)
+          TROPHY_OK=0
+          for url in \
+            "https://trophy.ryglcloud.net/?username=AhamedAAHA&theme=algolia&no-frame=true&column=7&margin-w=12&margin-h=12" \
+            "https://github-trophies.devomb.com/?username=AhamedAAHA&theme=algolia&no-frame=true&column=7&margin-w=12&margin-h=12" \
+            "https://trophy.benkou.dev/?username=AhamedAAHA&theme=algolia&no-frame=true&column=7&margin-w=12&margin-h=12"
+          do
+            if curl -fsSL -A "$UA" -o assets/generated/trophies.svg "$url"; then
+              TROPHY_OK=1
+              break
+            fi
+          done
+          if [ "$TROPHY_OK" -ne 1 ]; then
+            echo "All trophy mirrors failed" >&2
+            exit 1
+          fi
+
+          curl -fsSL -A "$UA" -o assets/generated/activity-graph.svg \
+            "https://github-readme-activity-graph.vercel.app/graph?username=AhamedAAHA&bg_color=061018&color=2dd4bf&line=38bdf8&point=fbbf24&area=true&hide_border=true&custom_title=Contribution%20Activity"
+
+          curl -fsSL -A "$UA" -o assets/generated/gh-chart.svg \
+            "https://ghchart.rshah.org/2dd4bf/AhamedAAHA" || true
+
+          for repo in neuroloom Aria kagent Sentra-AI; do
+            curl -fsSL -A "$UA" -o "assets/generated/pin-${repo}.svg" \
+              "https://github-readme-stats.shion.dev/api/pin/?username=AhamedAAHA&repo=${repo}&theme=transparent&hide_border=true&bg_color=061018&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1"
+          done
+
+          # Basic sanity: files must look like SVG
+          for f in assets/generated/github-stats.svg assets/generated/top-langs.svg assets/generated/streak.svg assets/generated/trophies.svg assets/generated/activity-graph.svg; do
+            grep -qi '<svg' "$f" || { echo "Invalid SVG: $f"; exit 1; }
+          done
+
+      - name: Commit & push refreshed widgets
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add assets/generated
+          if git diff --cached --quiet; then
+            echo "No widget changes"
+          else
+            git commit -m "chore: refresh profile widgets"
+            git push
+          fi

@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=AhamedAAHA&label=Profile%20views&color=0f766e&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open_to-Internships-22c55e?style=for-the-badge" alt="Open to internships" />
 
   <br/><br/>
 
@@ -38,33 +39,66 @@ I design and ship **AI-powered products** under pressure — multi-agent systems
 - Integrating **Gemma · OpenAI · ElevenLabs · Speechmatics · Bright Data · MediaPipe · Anthropic**
 - Always open to **internships**, **hackathon teams**, and **collaborations**
 
+<img src="./assets/now-shipping.svg" alt="Now shipping / open to work" width="100%" />
+
+### Snapshot
+
+| | |
+|---|---|
+| 🎓 **Education** | SLIIT · Software Engineering · Year 3 |
+| 📍 **Based in** | Kalubowila, Sri Lanka (remote-friendly) |
+| 🏆 **Recent ranks** | LabLab 17/294 · Cursor Buildathon 7th |
+| 🧪 **Focus** | Multi-agent systems · Voice AI · Full-stack |
+| 📬 **Contact** | [hubaibahamedaaha@gmail.com](mailto:hubaibahamedaaha@gmail.com) |
+
+---
+
+## GitHub pulse
+
+Widgets are cached in-repo and refreshed daily by GitHub Actions (public hosted stats/trophy apps are often paused).
+
 <div align="center">
-  <a href="https://github.com/AhamedAAHA">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhamedAAHA&show_icons=true&theme=transparent&hide_border=true&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1&bg_color=061018&ring_color=2dd4bf&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/AhamedAAHA">
-    <img src="https://github-readme-streak-stats.demolab.com?user=AhamedAAHA&theme=dark&hide_border=true&background=061018&ring=2dd4bf&fire=fbbf24&currStreakLabel=2dd4bf&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" height="165" alt="GitHub streak" />
-  </a>
+  <img src="./assets/generated/github-stats.svg" height="165" alt="GitHub stats" />
+  <img src="./assets/generated/streak.svg" height="165" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedAAHA&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1&bg_color=061018&langs_count=8" height="165" alt="Top languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhamedAAHA&bg_color=061018&color=2dd4bf&line=38bdf8&point=fbbf24&area=true&hide_border=true&custom_title=Contribution%20Activity" height="280" alt="Activity graph" />
+  <img src="./assets/generated/top-langs.svg" height="165" alt="Top languages" />
+  <img src="./assets/generated/activity-graph.svg" height="280" alt="Activity graph" />
+</div>
+
+### Contribution heatmap
+
+<div align="center">
+  <img src="./assets/generated/gh-chart.svg" alt="GitHub contribution chart" width="100%" />
 </div>
 
 ### Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhamedAAHA&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
+  <img src="./assets/generated/trophies.svg" alt="GitHub trophies" />
 </div>
 
-### Coding time
+### Builder rhythm
+
+No public WakaTime profile is connected yet — until then, this tracks seasonal focus intensity (not raw hours).
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AhamedAAHA&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1&bg_color=061018&custom_title=WakaTime%20this%20week" alt="WakaTime stats" />
+  <img src="./assets/coding-focus.svg" alt="Coding focus" width="100%" />
 </div>
 
-> Connect a public [WakaTime](https://wakatime.com) profile with username `AhamedAAHA` for live coding-time stats.
+<details>
+<summary><b>Want live WakaTime hours?</b></summary>
+
+1. Create an account at [wakatime.com](https://wakatime.com) with username **`AhamedAAHA`**
+2. Make the profile **public**
+3. Re-enable the card with:
+
+```md
+<img src="https://github-readme-stats.shion.dev/api/wakatime?username=AhamedAAHA&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=cbd5e1&bg_color=061018&custom_title=WakaTime%20this%20week" alt="WakaTime stats" />
+```
+
+</details>
 
 <img src="./assets/learning-now.svg" alt="Learning this month" width="100%" />
 
@@ -75,10 +109,21 @@ I design and ship **AI-powered products** under pressure — multi-agent systems
 Animated isometric contribution calendar — regenerates daily via GitHub Actions.
 
 <div align="center">
-
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated green 3D contributions" width="100%" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhamedAAHA/AhamedAAHA/main/profile-3d-contrib/profile-night-green.svg" />
+    <img src="https://raw.githubusercontent.com/AhamedAAHA/AhamedAAHA/main/profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D contributions" width="100%" />
+  </picture>
 </div>
+
+<details>
+<summary><b>More 3D themes</b></summary>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AhamedAAHA/AhamedAAHA/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Night rainbow 3D contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/AhamedAAHA/AhamedAAHA/main/profile-3d-contrib/profile-south-season-animate.svg" alt="South season animated 3D contributions" width="100%" />
+</div>
+
+</details>
 
 ---
 
@@ -119,18 +164,18 @@ Animated isometric contribution calendar — regenerates daily via GitHub Action
 
 <div align="center">
   <a href="https://github.com/AhamedAAHA/neuroloom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhamedAAHA&repo=neuroloom&theme=transparent&hide_border=true&bg_color=061018&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1" alt="neuroloom" />
+    <img src="./assets/generated/pin-neuroloom.svg" alt="neuroloom" />
   </a>
   <a href="https://github.com/AhamedAAHA/Aria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhamedAAHA&repo=Aria&theme=transparent&hide_border=true&bg_color=061018&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1" alt="Aria" />
+    <img src="./assets/generated/pin-Aria.svg" alt="Aria" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/AhamedAAHA/kagent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhamedAAHA&repo=kagent&theme=transparent&hide_border=true&bg_color=061018&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1" alt="kagent" />
+    <img src="./assets/generated/pin-kagent.svg" alt="kagent" />
   </a>
   <a href="https://github.com/AhamedAAHA/Sentra-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhamedAAHA&repo=Sentra-AI&theme=transparent&hide_border=true&bg_color=061018&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1" alt="Sentra-AI" />
+    <img src="./assets/generated/pin-Sentra-AI.svg" alt="Sentra-AI" />
   </a>
 </div>
 
@@ -139,6 +184,8 @@ Animated isometric contribution calendar — regenerates daily via GitHub Action
   <a href="https://aria-zeta-virid.vercel.app"><img src="https://img.shields.io/badge/Aria-Live-0369a1?style=flat-square&logo=vercel&logoColor=white" alt="Aria live" /></a>
   <a href="https://kagent-nine.vercel.app"><img src="https://img.shields.io/badge/KAgent-Live-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="KAgent live" /></a>
   <a href="https://sentra-one-kappa.vercel.app/"><img src="https://img.shields.io/badge/Sentra_AI-Live-e11d48?style=flat-square&logo=vercel&logoColor=white" alt="Sentra live" /></a>
+  <a href="https://adgpt-nine.vercel.app"><img src="https://img.shields.io/badge/AdGPT-Live-f59e0b?style=flat-square&logo=vercel&logoColor=white" alt="AdGPT live" /></a>
+  <a href="https://cyanide-x.vercel.app/"><img src="https://img.shields.io/badge/CyanideX-Live-64748b?style=flat-square&logo=vercel&logoColor=white" alt="CyanideX live" /></a>
 </p>
 
 | Project | What it is | Stack | Links |
@@ -229,6 +276,17 @@ Animated isometric contribution calendar — regenerates daily via GitHub Action
 
 ---
 
+## How I work
+
+| Mode | What you get |
+|---|---|
+| **Hackathon mode** | Scoped idea → working demo in hours, not weeks |
+| **Agent mode** | Multi-agent graphs, tool use, eval loops, voice I/O |
+| **Product mode** | Next.js UI + FastAPI/Node APIs + real data stores |
+| **Collab mode** | Clear owners, fast PRs, demo-first storytelling |
+
+---
+
 ## Currently shipping
 
 ```ts
@@ -274,6 +332,6 @@ const ahamed = {
 
   <br/>
 
-  <i>Built for builders. Updated with GitHub Actions · 3D contrib · contribution snake · live stats.</i>
+  <i>Built for builders · widgets cached via Actions · 3D contrib · contribution snake · live demos.</i>
 
 </div>

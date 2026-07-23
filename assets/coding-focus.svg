@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Coding focus">
+  <defs>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1620"/>
+      <stop offset="100%" stop-color="#061018"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" rx="18" fill="url(#panel)"/>
+  <rect x="0" y="0" width="900" height="4" fill="url(#accent)"/>
+
+  <text x="28" y="36" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">BUILDER RHYTHM · THIS SEASON</text>
+  <text x="28" y="68" fill="#e2e8f0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700">Shipping AI agents under hackathon pressure</text>
+
+  <!-- bars -->
+  <text x="28" y="108" fill="#67e8f9" font-family="ui-monospace, Menlo, monospace" font-size="13">Multi-agent systems</text>
+  <rect x="250" y="96" width="520" height="14" rx="7" fill="#12202c"/>
+  <rect x="250" y="96" width="470" height="14" rx="7" fill="#2dd4bf">
+    <animate attributeName="width" values="420;470;420" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="780" y="108" fill="#cbd5e1" font-family="ui-monospace, Menlo, monospace" font-size="12">92%</text>
+
+  <text x="28" y="140" fill="#67e8f9" font-family="ui-monospace, Menlo, monospace" font-size="13">Full-stack platforms</text>
+  <rect x="250" y="128" width="520" height="14" rx="7" fill="#12202c"/>
+  <rect x="250" y="128" width="440" height="14" rx="7" fill="#38bdf8">
+    <animate attributeName="width" values="400;440;400" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="780" y="140" fill="#cbd5e1" font-family="ui-monospace, Menlo, monospace" font-size="12">86%</text>
+
+  <text x="28" y="172" fill="#67e8f9" font-family="ui-monospace, Menlo, monospace" font-size="13">Voice AI · RAG</text>
+  <rect x="250" y="160" width="520" height="14" rx="7" fill="#12202c"/>
+  <rect x="250" y="160" width="390" height="14" rx="7" fill="#a78bfa">
+    <animate attributeName="width" values="350;390;350" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="780" y="172" fill="#cbd5e1" font-family="ui-monospace, Menlo, monospace" font-size="12">78%</text>
+
+  <text x="28" y="204" fill="#64748b" font-family="ui-monospace, Menlo, monospace" font-size="12">Tip: connect WakaTime as @AhamedAAHA later for live hours · until then this tracks focus intensity</text>
+</svg>
