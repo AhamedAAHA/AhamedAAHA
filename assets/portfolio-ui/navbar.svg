@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="68" viewBox="0 0 1100 68" role="img" aria-label="Navigation">
+  <defs>
+    <filter id="nsoft" x="-5%" y="-20%" width="110%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#2a4a30" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+  <rect x="8" y="6" width="1084" height="56" rx="28" fill="#fbfdf9" stroke="#d5e2d4" filter="url(#nsoft)"/>
+  <circle cx="40" cy="34" r="4.5" fill="#4a9a55"/>
+  <text x="54" y="39" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="600" fill="#1a2b1c">Ahamed AAH</text>
+
+  <rect x="268" y="18" width="72" height="32" rx="16" fill="#d8edd9"/>
+  <text x="304" y="39" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#2f6b38">ABOUT</text>
+  <text x="392" y="39" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="600" letter-spacing="1.4" fill="#5a6f5c">PROJECTS</text>
+  <text x="492" y="39" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="600" letter-spacing="1.4" fill="#5a6f5c">SKILLS</text>
+  <text x="600" y="39" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="600" letter-spacing="1.4" fill="#5a6f5c">HACKATHONS</text>
+  <text x="720" y="39" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="600" letter-spacing="1.4" fill="#5a6f5c">EDUCATION</text>
+  <text x="820" y="39" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="600" letter-spacing="1.4" fill="#5a6f5c">ACTIVITY</text>
+  <text x="910" y="39" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="600" letter-spacing="1.4" fill="#5a6f5c">CONTACT</text>
+
+  <circle cx="1008" cy="34" r="15" fill="none" stroke="#d0ddd0"/>
+  <text x="1008" y="39" text-anchor="middle" font-size="12" fill="#5a6f5c">☀</text>
+  <circle cx="1050" cy="34" r="15" fill="none" stroke="#d0ddd0"/>
+  <text x="1050" y="39" text-anchor="middle" font-size="12" fill="#5a6f5c">🔔</text>
+</svg>
